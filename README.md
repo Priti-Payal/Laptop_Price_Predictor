@@ -9,4 +9,4 @@ The Laptop Price Predictor project is a pioneering data-driven solution to meet 
 Data Processing and Feature Engineering: The dataset underwent thorough cleaning and preprocessing. Additionally, meaningful features were engineered to enhance the model's predictive capabilities.
 Machine Learning Models: The project incorporates Linear Regression, Decision Tree, and Random Forest algorithms. This diverse approach led to an accuracy rate of 86.51%, ensuring robust predictions.
 
-# Project Owner: Priti Payal
+### Project Owner: Priti Payal
