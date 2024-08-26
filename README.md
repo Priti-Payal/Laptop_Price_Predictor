@@ -10,8 +10,6 @@ Feature Extraction: Extract relevant features from the dataset that influence la
 Model Training: Use various machine learning algorithms to train models on the dataset.
 
 Model Evaluation: Compare the performance of different models to identify the best one for predicting laptop prices.
-
-Price Prediction: Estimate laptop prices based on user input or dataset features.
 # 🧠 Algorithms Used
 The following machine learning algorithms were used in this project:
 
