@@ -13,17 +13,17 @@ Model Evaluation: Compare the performance of different models to identify the be
 # 🧠 Algorithms Used
 The following machine learning algorithms were used in this project:
 
-Decision Tree
+Random Forest
 
 XGBoost Regressor
 
-Logistic Regression (used as a baseline model)
+Linear Regression (used as a baseline model)
 # Performance Summary
-Decision Tree: Provided a clear, interpretable model with 87.40% accuracy.
+Random Forest: Provided a clear, interpretable model with 87.40% accuracy.
 
 XGBoost Regressor: Outperformed the other models with the highest predictive accuracy 87.62%, making it the best choice for this task.
 
-Logistic Regression: Used as a baseline for comparison but less effective in this regression context.
+Linear Regression: Used as a baseline for comparison but less effective in this regression context.
 # 📊 Dataset
 The dataset used in this project includes features such as brand, processor type, RAM size, storage capacity, screen size and more. It was sourced from Kaggle and cleaned/preprocessed to ensure high-quality inputs for the model.
 
